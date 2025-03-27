@@ -35,6 +35,7 @@ Irina Arty
 
 <img src="doc/celebs/Irina_Arty/Irina_Arty.png" width=128></img>
 
+
 examples
 </td><td align="center">
 Millie Park
